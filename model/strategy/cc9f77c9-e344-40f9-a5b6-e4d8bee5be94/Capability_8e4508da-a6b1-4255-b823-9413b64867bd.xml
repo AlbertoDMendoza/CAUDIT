@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Legal Services"
     id="8e4508da-a6b1-4255-b823-9413b64867bd"
-    documentation="Legal Services manages the legal needs of the organisation."/>
+    documentation="Legal Services manages the legal needs of the organisation.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC155"/>
+</archimate:Capability>

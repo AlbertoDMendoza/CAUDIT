@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Property Management"
+    id="3c57b6f8-c3a4-4cd7-9f46-5a3b77754caa"
+    documentation="Property Management manages and maintains institution property such as land.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC127"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC125 Facilities &amp; Property Management"/>
+</archimate:Capability>

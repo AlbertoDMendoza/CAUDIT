@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Student Recruitment"
     id="98d5c64e-9df5-40cb-a90c-57aec4c25477"
-    documentation="Student Recruitment promotes the institution's learning products to generate applications from prospective students."/>
+    documentation="Student Recruitment promotes the institution's learning products to generate applications from prospective students.">
+  <properties
+      key="Capability Code"
+      value="BC008"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

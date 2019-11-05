@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tax Liability Management"
+    id="eb340c41-cc7a-42c0-91be-118865649481"
+    documentation="Tax Liability Management manages the position of the institution as relates to its current and future tax liabilities.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+  <properties
+      key="Capability Code"
+      value="BC191"/>
+  <properties/>
+</archimate:Capability>

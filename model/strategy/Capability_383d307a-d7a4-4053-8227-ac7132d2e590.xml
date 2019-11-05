@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Change Management"
+    id="383d307a-d7a4-4053-8227-ac7132d2e590"
+    documentation="Change management is capability to manage the effects of change on people. Change management incorporates the organisational tools and techniques such as Prosci's ADKAR to design change experiences for employees, students, and all customers and stakeholder of a university.�">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC206 Business Capability Management"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC207"/>
+</archimate:Capability>

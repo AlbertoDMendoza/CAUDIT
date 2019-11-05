@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Misconduct &amp; Appeal Management"
+    id="07023bc1-2a57-44ca-9df5-642def6e8961"
+    documentation="Student Misconduct and Appeal Management manages student misconduct investigations and appeals">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC049"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Parent Capability"
+      value="BC044 Student Administration"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+</archimate:Capability>

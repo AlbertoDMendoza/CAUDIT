@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resource Support"
+    id="6514f259-bd4a-42a4-872a-8f7ac935bd41"
+    documentation="Human Resource Support provides assistance and support to staff in the form of grievance processes, counselling services, mediation services, etc., as well as providing advisory services to front-line managers in workforce management issues.�">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC171 Human Resource Management"/>
+  <properties
+      key="Capability Code"
+      value="BC183"/>
+  <properties/>
+</archimate:Capability>

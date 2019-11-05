@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Development &amp; Fundraising"
+    id="fed57b6c-b4c8-4d4d-b71b-19b9cc507d3e"
+    documentation="Development increases public understanding of the institutions mission and acquires financial support for its programs. This includes fundraising activities such as�gathering voluntary contributions of money or other resources by requesting donations from individuals, businesses, charitable foundations, or governmental agencies.">
+  <properties
+      key="Parent Capability"
+      value="BC232 Advancement Management"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC222"/>
+</archimate:Capability>

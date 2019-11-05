@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Reporting"
+    id="3bafcb8c-87c3-4053-b453-a1618dc589b3"
+    documentation="Financial Reporting develops�formal records of the�financial�activities and position of the University and its entities.">
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC198"/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internal Audit &amp; Reporting"
+    id="3cc47e83-b3b9-44a1-acdc-985eeb9ccdf1"
+    documentation="Internal Audit &amp; Reporting manages and delivers the internal audit and compliance program.">
+  <properties
+      key="Parent Capability"
+      value="BC160 Governance, Risk, &amp; Compliance"/>
+  <properties
+      key="Capability Code"
+      value="BC163"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+</archimate:Capability>

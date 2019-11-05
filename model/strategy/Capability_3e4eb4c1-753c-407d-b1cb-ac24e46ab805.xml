@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portfolio, Program, &amp; Project Management"
+    id="3e4eb4c1-753c-407d-b1cb-ac24e46ab805"
+    documentation="Portfolio, Program, &amp; Project Management forms, defines, and manages groups of, and individual, projects and other initiatives to meet cost, time, and quality objectives.">
+  <properties
+      key="Parent Capability"
+      value="BC206 Business Capability Management"/>
+  <properties
+      key="Capability Code"
+      value="BC210"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+</archimate:Capability>

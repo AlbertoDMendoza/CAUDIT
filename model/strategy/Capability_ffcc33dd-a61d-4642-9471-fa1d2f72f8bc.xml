@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Treasury Management"
+    id="ffcc33dd-a61d-4642-9471-fa1d2f72f8bc"
+    documentation="Capability necessary for the management of university holdings, with the ultimate goal of managing liquidity and mitigating operational, financial, and reputational risk. Treasury Management ensures�that operating cash flows are maintained to meet immediate obligations and that any associated financial, operational and reputational risks are managed.">
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC219"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

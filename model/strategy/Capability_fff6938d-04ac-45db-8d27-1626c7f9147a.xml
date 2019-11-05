@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Records Management"
+    id="fff6938d-04ac-45db-8d27-1626c7f9147a"
+    documentation="Records Management manages the creation, receipt, maintenance, use, and disposal of records, including processes for capturing and maintaining the evidence of, and information about, business activities and transactions in the form of records.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC145"/>
+</archimate:Capability>

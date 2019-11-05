@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Project Scoping"
+    id="5f3d8115-a8e4-4cbb-8b37-3da46d31bf44"
+    documentation="The processes and resources necessary to scope individual research projects within the research program">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Parent Capability"
+      value="BC065 Research Opportunities &amp; Planning"/>
+  <properties
+      key="Value Chain Segment"
+      value="Plan"/>
+  <properties
+      key="Capability Code"
+      value="BC070"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offer &amp; Acceptance Management"
+    id="cc37e571-6199-4758-b2bc-33b2abd6b77d"
+    documentation="Offer and Acceptance Management classifies students into different groups and decides the number and proportion of places in educational programs that will be allocated to each group.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit"/>
+  <properties
+      key="Capability Code"
+      value="BC017"/>
+  <properties
+      key="Parent Capability"
+      value="BC014 Student Admission"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

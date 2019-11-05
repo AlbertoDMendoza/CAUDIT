@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Government Relationship Management"
+    id="b58abae1-a9c3-4050-b85a-a16c84911131"
+    documentation="Government Relationship Management identifies�key domestic and international, government, NGO and agency stakeholders, and manages and maintains these relationships.">
+  <properties
+      key="Parent Capability"
+      value="BC100 Organisations &amp; Communities Relationship Management"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC101"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

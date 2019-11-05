@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring, Assessment, &amp; Evaluation"
+    id="43c6d6f5-2430-4c9d-8eb0-c6d5db8195d1"
+    documentation="Monitoring, Assessment, &amp; Evaluation provides quantitative analysis of the performance of technology services.">
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC201 Information &amp; Communication Technology Management"/>
+  <properties
+      key="Capability Code"
+      value="BC205"/>
+</archimate:Capability>

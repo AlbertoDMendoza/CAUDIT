@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Supervision"
+    id="f85c3ddd-3e60-41ef-a5b9-98d605fe52db"
+    documentation="Student Supervision provides supervision of a student's academic efforts, whether they be course-, dissertation-, or research-based.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Parent Capability"
+      value="BC023 Curriculum Delivery"/>
+  <properties
+      key="Value Chain Segment"
+      value="Deliver"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC059"/>
+</archimate:Capability>

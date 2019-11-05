@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delivery, Service, &amp; Support"
+    id="83213c68-0be9-4ed2-9d80-ce38cc260fd0"
+    documentation="Delivery, Service, &amp; Support provides and supports the institution with the information and communication technology services it requires.">
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC201 Information &amp; Communication Technology Management"/>
+  <properties
+      key="Capability Code"
+      value="BC204"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

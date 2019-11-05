@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Process Management"
+    id="81102891-8563-4f1f-bb32-1f8335e91743"
+    documentation="The processes and resources necessary to manage enterprise business process workflows and automation.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC206 Business Capability Management"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC216"/>
+</archimate:Capability>

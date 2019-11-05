@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Curriculum Planning"
+    id="e75df58f-971c-4ba9-9c54-5b8cf018457e"
+    documentation="Curriculum planning researches the need, demand, and opportunities for educational products, such as courses and subjects, and decides which will be developed and offered.">
+  <properties
+      key="Value Chain Segment"
+      value="Design"/>
+  <properties
+      key="Capability Code"
+      value="BC002"/>
+  <properties
+      key="Parent Capability"
+      value="BC001 Curriculum Creation"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

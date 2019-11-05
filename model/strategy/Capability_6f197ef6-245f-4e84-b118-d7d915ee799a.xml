@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Grant Management"
+    id="6f197ef6-245f-4e84-b118-d7d915ee799a"
+    documentation="Capability necessary to establish, award, manage, and administer research grants which are provided by the University.">
+  <properties
+      key="Capability Code"
+      value="BC215"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Parent Capability"
+      value="BC071 Research Funding"/>
+  <properties
+      key="Value Chain Segment"
+      value="Fund"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+</archimate:Capability>

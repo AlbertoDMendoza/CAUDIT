@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Market Research"
+    id="c0ac6c10-27cd-45ce-b10b-b6cb6dee9940"
+    documentation="Market Research gathers and analyses information about target markets and customers in order to assess market demand, size, and competition.">
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC111"/>
+  <properties
+      key="Parent Capability"
+      value="BC107 Marketing Management"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

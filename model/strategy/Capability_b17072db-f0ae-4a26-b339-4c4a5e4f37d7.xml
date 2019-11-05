@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internal Stakeholder Relationship Management"
+    id="b17072db-f0ae-4a26-b339-4c4a5e4f37d7"
+    documentation="Internal Stakeholder Relationship Management identifies key internal stakeholders, and manages and maintains these relationships">
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC103"/>
+  <properties
+      key="Parent Capability"
+      value="BC100 Organisations &amp; Communities Relationship Management"/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategic Plan Development"
+    id="795a828a-09ab-473e-930a-0d10095a78da"
+    documentation="Strategic Plan Development formulates the university's strategic initiatives in a specified time frame to meet the goals and objectives of the University.">
+  <properties
+      key="Capability Code"
+      value="BC149"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC147 Strategy Management"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+</archimate:Capability>

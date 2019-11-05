@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Outcome Commercialisation"
+    id="0e7a77a4-c61d-43f5-b5ac-2deaed806582"
+    documentation="Research Outcome Commercialisation�manages the realisation and exploitation of research outcomes for profit.�">
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Value Chain Segment"
+      value="Impact"/>
+  <properties
+      key="Capability Code"
+      value="BC088"/>
+  <properties
+      key="Parent Capability"
+      value="BC086 Research Impact"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

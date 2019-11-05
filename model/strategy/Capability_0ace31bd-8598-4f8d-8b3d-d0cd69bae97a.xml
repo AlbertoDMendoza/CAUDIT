@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investigation Management"
+    id="0ace31bd-8598-4f8d-8b3d-d0cd69bae97a"
+    documentation="Investigation Management manages investigations in respect of specified aspects of the University�s operations.">
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC167"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC160 Governance, Risk, &amp; Compliance"/>
+</archimate:Capability>

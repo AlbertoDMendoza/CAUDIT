@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Curriculum Quality Management"
+    id="989ab49a-dff3-4ad9-bcc8-be9907f8b902"
+    documentation="Curriculum Quality Management sets and reviews the quality standards and framework, internal academic governance, and external regulatory requirements.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC039"/>
+  <properties
+      key="Parent Capability"
+      value="BC038 Curriculum Improvement"/>
+  <properties
+      key="Value Chain Segment"
+      value="Improve"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

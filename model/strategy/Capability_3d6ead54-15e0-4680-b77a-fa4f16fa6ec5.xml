@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Career Advice"
+    id="3d6ead54-15e0-4680-b77a-fa4f16fa6ec5"
+    documentation="Careers Advice provides students with advice that helps them plan and prepare for their future work and life with the help of information, workshops, events, and services.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC055"/>
+  <properties
+      key="Parent Capability"
+      value="BC052 Student Support Services"/>
+</archimate:Capability>

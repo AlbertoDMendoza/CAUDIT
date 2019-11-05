@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Governance, Risk, &amp; Compliance "
     id="a62adcfa-233d-48d8-b531-d70805594fe8"
-    documentation="Governance, Risk &amp; Compliance performs governance, risk management, and compliance activities."/>
+    documentation="Governance, Risk &amp; Compliance performs governance, risk management, and compliance activities.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC160"/>
+</archimate:Capability>

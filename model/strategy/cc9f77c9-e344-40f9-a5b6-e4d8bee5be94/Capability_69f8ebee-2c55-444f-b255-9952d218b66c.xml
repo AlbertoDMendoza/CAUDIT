@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Student Enrolment"
     id="69f8ebee-2c55-444f-b255-9952d218b66c"
-    documentation="Student Enrolment places students in subjects, units, and other learning activities."/>
+    documentation="Student Enrolment places students in subjects, units, and other learning activities.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Enrol"/>
+  <properties
+      key="Capability Code"
+      value="BC019"/>
+</archimate:Capability>

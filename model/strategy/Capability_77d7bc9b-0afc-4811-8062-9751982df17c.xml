@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Management"
+    id="77d7bc9b-0afc-4811-8062-9751982df17c"
+    documentation="Workforce Management manage an institution's workforce. This is typically achieved through scheduling, rostering, management of timesheets, and changes to span of hours.">
+  <properties/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC171 Human Resource Management"/>
+  <properties
+      key="Capability Code"
+      value="BC178"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

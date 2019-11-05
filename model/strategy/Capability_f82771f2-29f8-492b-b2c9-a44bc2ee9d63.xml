@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eligibility Assessment"
+    id="f82771f2-29f8-492b-b2c9-a44bc2ee9d63"
+    documentation="Eligibility Assessment determines a student's eligibility to graduate and confers on them the status of a graduand.">
+  <properties
+      key="Value Chain Segment"
+      value="Graduate"/>
+  <properties
+      key="Parent Capability"
+      value="BC032 Student Graduation"/>
+  <properties
+      key="Capability Code"
+      value="BC034"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+</archimate:Capability>

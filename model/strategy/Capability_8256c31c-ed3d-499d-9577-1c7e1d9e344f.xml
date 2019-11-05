@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Advisory"
+    id="8256c31c-ed3d-499d-9577-1c7e1d9e344f"
+    documentation="Legal Advisory provides legal advice to support institution operations and decision-making.">
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC159"/>
+  <properties
+      key="Parent Capability"
+      value="BC155 Legal Services"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+</archimate:Capability>

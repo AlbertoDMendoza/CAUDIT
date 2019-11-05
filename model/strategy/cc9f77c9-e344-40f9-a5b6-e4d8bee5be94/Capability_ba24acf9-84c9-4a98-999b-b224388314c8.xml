@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Curriculum Improvement"
     id="ba24acf9-84c9-4a98-999b-b224388314c8"
-    documentation="Curriculum Improvement modifies or enhances the structure and content of the curriculum to improve the academic offering to meet ongoing and future demands."/>
+    documentation="Curriculum Improvement modifies or enhances the structure and content of the curriculum to improve the academic offering to meet ongoing and future demands.">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC038"/>
+  <properties
+      key="Value Chain Segment"
+      value="Improve"/>
+</archimate:Capability>

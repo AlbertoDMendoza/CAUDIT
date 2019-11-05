@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Health &amp; Wellbeing"
+    id="d564bb88-a36c-4a34-b204-aaf05eaccb83"
+    documentation="Student Health &amp; Well-being supports students and their physical, mental health, emotional, personal, and spiritual needs">
+  <properties
+      key="Capability Code"
+      value="BC058"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Parent Capability"
+      value="BC052 Student Support Services"/>
+</archimate:Capability>

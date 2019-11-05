@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Academic Advice"
+    id="3dea8d3b-a2c5-4906-b9ae-045c748338bc"
+    documentation="Academic Advice provides advice about programmes of study and advice about academic regulations and policies.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Capability Code"
+      value="BC053"/>
+  <properties
+      key="Parent Capability"
+      value="BC052 Student Support Services"/>
+</archimate:Capability>

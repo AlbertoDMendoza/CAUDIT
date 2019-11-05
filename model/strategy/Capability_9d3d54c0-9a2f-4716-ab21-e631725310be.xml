@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Insurance"
+    id="9d3d54c0-9a2f-4716-ab21-e631725310be"
+    documentation="Insurance manages the type of insurances required relative to the institution's risk liability.">
+  <properties
+      key="Parent Capability"
+      value="BC160 Governance, Risk, &amp; Compliance"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC162"/>
+  <properties/>
+</archimate:Capability>

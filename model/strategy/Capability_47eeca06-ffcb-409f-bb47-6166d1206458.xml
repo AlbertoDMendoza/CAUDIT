@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning &amp; Teaching Material Preparation"
+    id="47eeca06-ffcb-409f-bb47-6166d1206458"
+    documentation="Learning &amp; Teaching Material Preparation prepares learning material for delivery, such as refreshing reading lists and selecting questions for exams">
+  <properties
+      key="Capability Code"
+      value="BC024"/>
+  <properties
+      key="Parent Capability"
+      value="BC023 Curriculum Delivery"/>
+  <properties
+      key="Value Chain Segment"
+      value="Deliver"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

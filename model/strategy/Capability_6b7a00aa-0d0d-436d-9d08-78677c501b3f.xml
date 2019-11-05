@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Management"
+    id="6b7a00aa-0d0d-436d-9d08-78677c501b3f"
+    documentation="Risk management identifies, measures, monitors, and reports the occurrences that can affect the institution's ability to achieve objectives. This includes strategic and operational risks across all institutional activities, including learning and teaching, and research.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC160 Governance, Risk, &amp; Compliance"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC168"/>
+</archimate:Capability>

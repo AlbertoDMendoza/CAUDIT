@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Performance Data Collection"
+    id="7de698cd-7bed-4d98-92af-6b21f211b231"
+    documentation="Performance Data Collection captures and stores data required to report organisational performance.">
+  <properties
+      key="Parent Capability"
+      value="BC150 Organisation Performance"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC151"/>
+  <properties/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remuneration, Entitlements, &amp; Benefits Management"
+    id="2f21b9a7-f5e8-4d8e-9a90-fdaf18f1a615"
+    documentation="Remuneration, Entitlements, and Benefits Management plans, manages, calibrates, and monitors staff remuneration, entitlements, and other benefits.� This includes management of enterprise agreements and/or direct negotiation.">
+  <properties
+      key="Parent Capability"
+      value="BC171 Human Resource Management"/>
+  <properties
+      key="Capability Code"
+      value="BC176"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

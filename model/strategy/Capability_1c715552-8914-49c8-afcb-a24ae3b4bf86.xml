@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Publications"
+    id="1c715552-8914-49c8-afcb-a24ae3b4bf86"
+    documentation="Research Publications manages the planning and publishing of research outcomes.">
+  <properties
+      key="Capability Code"
+      value="BC083"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Impact"/>
+  <properties
+      key="Parent Capability"
+      value="BC082 Research Output Management"/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Training &amp; Development"
+    id="55e9bb05-7452-495e-8b0c-1ccc74e28b05"
+    documentation="Workforce Training and Development determines, builds, delivers, and records outcomes of professional development and training for all staff.� This includes recording the qualifications, certifications, and competencies of institution staff.">
+  <properties
+      key="Capability Code"
+      value="BC182"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC171 Human Resource Management"/>
+</archimate:Capability>

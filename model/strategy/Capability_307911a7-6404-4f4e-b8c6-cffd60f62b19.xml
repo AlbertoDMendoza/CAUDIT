@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality Management"
+    id="307911a7-6404-4f4e-b8c6-cffd60f62b19"
+    documentation="Quality management manages, monitors, maintains, and improves relevant internal standards that the University sets and responds to external standards.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC160 Governance, Risk, &amp; Compliance"/>
+  <properties
+      key="Capability Code"
+      value="BC165"/>
+  <properties/>
+  <properties/>
+</archimate:Capability>

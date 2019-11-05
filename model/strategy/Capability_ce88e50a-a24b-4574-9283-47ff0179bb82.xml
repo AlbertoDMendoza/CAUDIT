@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Content Management"
+    id="ce88e50a-a24b-4574-9283-47ff0179bb82"
+    documentation="Enterprise Content Management captures, stores, manages, and deliver content and documents that support the University's key business processes.">
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+  <properties
+      key="Capability Code"
+      value="BC146"/>
+</archimate:Capability>

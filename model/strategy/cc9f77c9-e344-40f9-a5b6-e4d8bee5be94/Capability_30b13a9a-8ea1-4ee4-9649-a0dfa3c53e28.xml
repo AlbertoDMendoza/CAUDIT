@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Research Improvement"
     id="30b13a9a-8ea1-4ee4-9649-a0dfa3c53e28"
-    documentation="Research Improvement identifies, analyzes and improves�upon existing research processes."/>
+    documentation="Research Improvement identifies, analyzes and improves�upon existing research processes.">
+  <properties
+      key="Capability Code"
+      value="BC089"/>
+  <properties
+      key="Value Chain Segment"
+      value="Improve"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

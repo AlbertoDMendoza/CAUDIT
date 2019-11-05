@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Architecture"
+    id="8fa9c652-4604-4c63-9e89-8b310e21b9ff"
+    documentation="Enterprise Architecture conducts enterprise analysis, design, planning, and implementation to aid successful development and execution of strategy">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC206 Business Capability Management"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC209"/>
+</archimate:Capability>

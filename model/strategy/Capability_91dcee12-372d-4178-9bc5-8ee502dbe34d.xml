@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Data Management"
+    id="91dcee12-372d-4178-9bc5-8ee502dbe34d"
+    documentation="Research Data Management manages the storage, classification, categorisation, usage and sharing of datasets created from research programs in accordance developed and agreed dataset management plans.">
+  <properties
+      key="Parent Capability"
+      value="BC074 Research Delivery"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Conduct"/>
+  <properties
+      key="Capability Code"
+      value="BC077"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Infrastructure Management "
+    id="6c09af86-91ee-4812-8cc3-54c06078faf3"
+    documentation="Research infrastructure management provides support and resource management of specialised research infrastructure.">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC097"/>
+  <properties
+      key="Parent Capability"
+      value="BC093 Research Support"/>
+  <properties
+      key="Value Chain Segment"
+      value="Plan - Improve"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+</archimate:Capability>

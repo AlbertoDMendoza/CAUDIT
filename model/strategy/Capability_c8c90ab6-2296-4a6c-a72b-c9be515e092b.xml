@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credit for Prior Learning Assessment"
+    id="c8c90ab6-2296-4a6c-a72b-c9be515e092b"
+    documentation="Credit for Prior Learning assesses a student's prior learning and assesses if any credit may be given towards their current studies.">
+  <properties
+      key="Parent Capability"
+      value="BC014 Student Admission"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit"/>
+  <properties
+      key="Capability Code"
+      value="BC018"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

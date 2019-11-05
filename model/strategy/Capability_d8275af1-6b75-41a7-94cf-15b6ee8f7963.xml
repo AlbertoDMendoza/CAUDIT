@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Price Modelling"
+    id="d8275af1-6b75-41a7-94cf-15b6ee8f7963"
+    documentation="Price Modelling models various product-pricing scenarios and their effect on demand and revenue.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+  <properties
+      key="Capability Code"
+      value="BC189"/>
+</archimate:Capability>

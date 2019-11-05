@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timetable Management"
+    id="47be9309-36d2-4019-84f8-395913ec8add"
+    documentation="Timetable Management produces and maintains a schedule of learning activity times and locations.�">
+  <properties
+      key="Value Chain Segment"
+      value="Enrol"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC027"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Parent Capability"
+      value="BC019 Student Enrolment"/>
+</archimate:Capability>

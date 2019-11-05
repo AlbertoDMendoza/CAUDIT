@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Printing Management"
+    id="1bea1760-5c15-46d5-96fd-098b3174597b"
+    documentation="Printing Service Management provides printing and binding services.">
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC120"/>
+  <properties
+      key="Parent Capability"
+      value="BC114 Supporting Services"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+</archimate:Capability>

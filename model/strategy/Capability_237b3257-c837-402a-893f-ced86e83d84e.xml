@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fund Sourcing"
+    id="237b3257-c837-402a-893f-ced86e83d84e"
+    documentation="Fund Sourcing identifies and secures financial resources required to support research, training, and service through various agreements.">
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Value Chain Segment"
+      value="Fund"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Parent Capability"
+      value="BC071 Research Funding"/>
+  <properties
+      key="Capability Code"
+      value="BC072"/>
+</archimate:Capability>

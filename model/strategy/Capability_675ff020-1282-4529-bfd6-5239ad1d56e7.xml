@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Search &amp; Discovery"
+    id="675ff020-1282-4529-bfd6-5239ad1d56e7"
+    documentation="Information Search &amp; Discovery supports search and discovery of library resources.">
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC137"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+</archimate:Capability>

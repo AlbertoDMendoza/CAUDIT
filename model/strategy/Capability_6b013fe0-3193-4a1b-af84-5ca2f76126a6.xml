@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Commercial Tenancy"
+    id="6b013fe0-3193-4a1b-af84-5ca2f76126a6"
+    documentation="Commercial Tenancy manages commercial tenants.">
+  <properties
+      key="Parent Capability"
+      value="BC125 Facilities &amp; Property Management"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC130"/>
+  <properties/>
+  <properties/>
+</archimate:Capability>

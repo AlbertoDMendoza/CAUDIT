@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Healthcare Management"
+    id="31ad09b9-6e9f-486b-94e3-bd375560fc6b"
+    documentation="Healthcare Service Management provides eligible constituents of the organisation with healthcare services such as a general medical practice and counselling services.">
+  <properties
+      key="Capability Code"
+      value="BC118"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC114 Supporting Services"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+</archimate:Capability>

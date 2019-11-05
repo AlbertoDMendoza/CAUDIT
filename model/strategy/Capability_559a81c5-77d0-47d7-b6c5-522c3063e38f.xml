@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Admission Evaluation"
+    id="559a81c5-77d0-47d7-b6c5-522c3063e38f"
+    documentation="Admission Evaluation assesses student applications for admission and approves or rejects them.">
+  <properties
+      key="Parent Capability"
+      value="BC014 Student Admission"/>
+  <properties
+      key="Capability Code"
+      value="BC016"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payroll Management"
+    id="8be9a1bb-3a06-4327-bbce-ed1b6b9ad13b"
+    documentation="Capability necessary to provide payroll services.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC171 Human Resource Management"/>
+  <properties
+      key="Capability Code"
+      value="BC214"/>
+  <properties/>
+  <properties/>
+</archimate:Capability>

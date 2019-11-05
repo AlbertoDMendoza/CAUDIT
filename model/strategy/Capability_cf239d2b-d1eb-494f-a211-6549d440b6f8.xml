@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Environmental Management Services"
+    id="cf239d2b-d1eb-494f-a211-6549d440b6f8"
+    documentation="Environmental Management Services manages waste removal and recycling for campus facilities">
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC125 Facilities &amp; Property Management"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC131"/>
+  <properties/>
+</archimate:Capability>

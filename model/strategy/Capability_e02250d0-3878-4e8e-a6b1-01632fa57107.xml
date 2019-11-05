@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliance Management"
+    id="e02250d0-3878-4e8e-a6b1-01632fa57107"
+    documentation="Compliance Management observes, track, and documents relevant legislation, regulations, standards, and recognised industry and professional codes the University is subject to.� The management of relevant�license and permit requirements, and the lifecycle of those licenses and permits, is included within this business capability.">
+  <properties
+      key="Parent Capability"
+      value="BC160 Governance, Risk, &amp; Compliance"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC170"/>
+</archimate:Capability>

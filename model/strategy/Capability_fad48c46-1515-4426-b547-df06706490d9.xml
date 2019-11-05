@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Special Consideration Management"
+    id="fad48c46-1515-4426-b547-df06706490d9"
+    documentation="Capability that manages student special considerations during their study at the university. The special causes include; acute illness, loss or bereavement and hardship/trauma.">
+  <properties
+      key="Parent Capability"
+      value="BC044 Student Administration"/>
+  <properties
+      key="Capability Code"
+      value="BC224�"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

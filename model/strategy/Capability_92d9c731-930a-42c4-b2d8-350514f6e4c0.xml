@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artefact &amp; Collection Management"
+    id="92d9c731-930a-42c4-b2d8-350514f6e4c0"
+    documentation="Artefact &amp; Collection Management is an integrated approach to developing, caring for, documenting and using collections.  In addition to typical collections such as those acquired and lifecycle-managed by an academic library, the items contained within these collections may be physical artefacts of special character and value, such as artworks, letters, cultural artefacts, and botanical or biological specimens.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC140"/>
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+</archimate:Capability>

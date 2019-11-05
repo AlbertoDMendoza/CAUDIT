@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketing Planning"
+    id="84f7b498-08f2-4144-ba8c-4a359be44e7e"
+    documentation="Marketing planning develops strategies and undertakes planning for advertising, promotions, and sales to reach potential future students, current students, and to enhance the institution's brand.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC112"/>
+  <properties
+      key="Parent Capability"
+      value="BC107 Marketing Management"/>
+</archimate:Capability>

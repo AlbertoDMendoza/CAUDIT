@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financial Management"
     id="7a484c06-f6d5-4848-87f9-2afa256518c4"
-    documentation="Financial Management manages all aspects of an institution's finances to achieve the institution's strategic objectives."/>
+    documentation="Financial Management manages all aspects of an institution's finances to achieve the institution's strategic objectives.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC184"/>
+</archimate:Capability>

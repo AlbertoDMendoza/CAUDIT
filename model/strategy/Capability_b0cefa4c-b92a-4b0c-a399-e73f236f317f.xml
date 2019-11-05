@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Intelligence &amp; Reporting"
+    id="b0cefa4c-b92a-4b0c-a399-e73f236f317f"
+    documentation="Refers to technologies, applications, and practices for the collection, integration, analysis, and presentation of business information.">
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC211"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

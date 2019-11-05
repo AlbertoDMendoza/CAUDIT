@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Performance Reporting"
+    id="790c9be3-5e16-4b40-aeae-120042426fad"
+    documentation="Performance Reporting creates and manages the key performance framework and associated indicators.">
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC150 Organisation Performance"/>
+  <properties
+      key="Capability Code"
+      value="BC154"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

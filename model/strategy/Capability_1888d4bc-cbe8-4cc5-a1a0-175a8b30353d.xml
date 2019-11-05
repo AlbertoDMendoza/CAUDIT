@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public &amp; Community Relationship Management"
+    id="1888d4bc-cbe8-4cc5-a1a0-175a8b30353d"
+    documentation="Public &amp; Community Relationship Management manages public relations activities as well as identifying key community stakeholders and partners including indigenous communities, and managing and maintaining these relationships">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC106"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC100 Organisations &amp; Communities Relationship Management"/>
+</archimate:Capability>

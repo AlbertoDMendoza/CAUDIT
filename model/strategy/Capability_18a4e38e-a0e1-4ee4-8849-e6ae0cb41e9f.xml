@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Payment Processing"
+    id="18a4e38e-a0e1-4ee4-8849-e6ae0cb41e9f"
+    documentation="Student Payment Processing processes payment of student invoices">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC051"/>
+  <properties
+      key="Parent Capability"
+      value="BC044 Student Administration"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+</archimate:Capability>

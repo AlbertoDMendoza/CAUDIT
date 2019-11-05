@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Student Administration"
     id="e41836c4-9ab8-45f3-bd4e-31f89118afa1"
-    documentation="Student Administration manages student records and the processes for the student life cycle."/>
+    documentation="Student Administration manages student records and the processes for the student life cycle.">
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC044"/>
+</archimate:Capability>

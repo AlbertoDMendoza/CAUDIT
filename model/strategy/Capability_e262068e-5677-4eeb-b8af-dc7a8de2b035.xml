@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unit Enrolment"
+    id="e262068e-5677-4eeb-b8af-dc7a8de2b035"
+    documentation="Unit Enrolment allocates students places in learning activities such subjects, lectures, tutorials, and workshops. ">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC021"/>
+  <properties
+      key="Value Chain Segment"
+      value="Enrol"/>
+  <properties
+      key="Parent Capability"
+      value="BC019 Student Enrolment"/>
+</archimate:Capability>

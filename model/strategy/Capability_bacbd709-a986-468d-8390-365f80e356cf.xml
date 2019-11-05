@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Invoice Processing"
+    id="bacbd709-a986-468d-8390-365f80e356cf"
+    documentation="Student Invoice Processing processes invoices such as tuition fees and student fees">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Parent Capability"
+      value="BC044 Student Administration"/>
+  <properties
+      key="Capability Code"
+      value="BC050"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+</archimate:Capability>

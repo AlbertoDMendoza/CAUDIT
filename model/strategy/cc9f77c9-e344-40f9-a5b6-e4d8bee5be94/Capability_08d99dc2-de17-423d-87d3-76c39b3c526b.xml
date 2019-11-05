@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Research Output Management"
     id="08d99dc2-de17-423d-87d3-76c39b3c526b"
-    documentation="Research Output Management plans, publishes, and monitors the performance of research works, outputs, and publications of all kinds generated from research projects and research activities."/>
+    documentation="Research Output Management plans, publishes, and monitors the performance of research works, outputs, and publications of all kinds generated from research projects and research activities.">
+  <properties
+      key="Value Chain Segment"
+      value="Impact"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Capability Code"
+      value="BC082"/>
+</archimate:Capability>

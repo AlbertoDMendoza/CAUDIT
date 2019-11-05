@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Funds Management"
+    id="78d268ac-9f0c-4fc2-9822-4af232813ef5"
+    documentation="Research Funds Management manages the revenue and expenditure related to an institution's research portfolio, programs, projects, or individual grants. This includes the management of research contracts and revenue milestones.">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Parent Capability"
+      value="BC071 Research Funding"/>
+  <properties
+      key="Capability Code"
+      value="BC073"/>
+  <properties
+      key="Value Chain Segment"
+      value="Fund"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+</archimate:Capability>

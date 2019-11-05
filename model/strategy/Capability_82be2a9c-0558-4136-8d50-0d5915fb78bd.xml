@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Childcare Management"
+    id="82be2a9c-0558-4136-8d50-0d5915fb78bd"
+    documentation="Childcare Management provides students, staff, and other University constituents with access to childcare services for their dependents.">
+  <properties
+      key="Parent Capability"
+      value="BC114 Supporting Services"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC117"/>
+</archimate:Capability>

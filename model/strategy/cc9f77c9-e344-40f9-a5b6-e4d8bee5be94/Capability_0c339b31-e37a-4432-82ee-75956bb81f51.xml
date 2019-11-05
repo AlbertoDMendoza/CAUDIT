@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Facilities &amp; Property Management"
     id="0c339b31-e37a-4432-82ee-75956bb81f51"
-    documentation="Facilities &amp; Property Management manages and maintains institution property and facilities"/>
+    documentation="Facilities &amp; Property Management manages and maintains institution property and facilities">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC125"/>
+</archimate:Capability>

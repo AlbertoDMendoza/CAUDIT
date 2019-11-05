@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Research Impact "
     id="0dab0178-3098-4614-b7d0-748993746ab6"
-    documentation="Research Impact enables the change and benefit of research beyond academia, translating research into real-world outcomes, and demonstrates the contribution that research makes to academic advances and society as a whole. "/>
+    documentation="Research Impact enables the change and benefit of research beyond academia, translating research into real-world outcomes, and demonstrates the contribution that research makes to academic advances and society as a whole. ">
+  <properties
+      key="Value Chain Segment"
+      value="Impact"/>
+  <properties
+      key="Capability Code"
+      value="BC086"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

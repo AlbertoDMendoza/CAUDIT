@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement Management"
+    id="5004e924-7014-4a41-b603-ec489d7e96dc"
+    documentation="Procurement manages the processes, policies, and vendor relationships relating to the institution's strategic procurement.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC193"/>
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+  <properties/>
+</archimate:Capability>

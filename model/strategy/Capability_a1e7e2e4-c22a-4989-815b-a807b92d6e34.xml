@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Space Utilisation Management"
+    id="a1e7e2e4-c22a-4989-815b-a807b92d6e34"
+    documentation="Capability necessary to analyse, plan, review and measure space usage (i.e. purpose) and utilisation (i.e. time in use), including spatial analytics.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC125 Facilities &amp; Property Management"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC227"/>
+</archimate:Capability>

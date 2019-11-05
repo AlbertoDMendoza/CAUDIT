@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Planning &amp; Analysis"
+    id="7c3b08e8-9db7-4d81-992f-bd996a78c9f5"
+    documentation="Financial planning and analysis is the budgeting, forecasting and analytical processes that support an organization's financial health and business strategy. This includes operational and financial data analysis to measure business operations and forecast their financial impact.">
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+  <properties
+      key="Capability Code"
+      value="BC190"/>
+  <properties/>
+</archimate:Capability>

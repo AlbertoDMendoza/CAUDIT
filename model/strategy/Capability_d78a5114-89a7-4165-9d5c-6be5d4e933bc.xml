@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Management"
+    id="d78a5114-89a7-4165-9d5c-6be5d4e933bc"
+    documentation="Asset Management tracks and manages the financial lifecycle of tangible institution assets, including vehicle, plant, and equipment fleets.">
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC197"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+  <properties/>
+</archimate:Capability>

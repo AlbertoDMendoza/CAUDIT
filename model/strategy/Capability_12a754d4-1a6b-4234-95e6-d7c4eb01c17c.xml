@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Output Reviewing"
+    id="12a754d4-1a6b-4234-95e6-d7c4eb01c17c"
+    documentation="Research Output Reviewing manages participation and recognition of researchers in review activities for journals, conferences, publications, and other works and research outputs.">
+  <properties
+      key="Capability Code"
+      value="BC085"/>
+  <properties
+      key="Parent Capability"
+      value="BC082 Research Output Management"/>
+  <properties
+      key="Value Chain Segment"
+      value="Impact"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+</archimate:Capability>

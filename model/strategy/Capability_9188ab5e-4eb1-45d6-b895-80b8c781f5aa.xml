@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project Accounting"
+    id="9188ab5e-4eb1-45d6-b895-80b8c781f5aa"
+    documentation="Project Accounting records and monitors the financial status of projects.">
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC194"/>
+  <properties/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intercollegiate Athletics &amp; Competition Management"
+    id="6afd2ceb-d856-4b5d-a3c7-fbcd82b807a3"
+    documentation="Intercollegiate Athletics and Competition Management is concerned with sport governance, coaching, compliance, ethics, with sports-specific considerations of equity, recruitment, administration, marketing, and negotiation of media rights.">
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC114 Supporting Services"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC229"/>
+</archimate:Capability>

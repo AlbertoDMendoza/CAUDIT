@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Integrity Management"
+    id="549bb81c-b27b-4c6f-a989-425156041004"
+    documentation="Research Integrity Management defines and supports the organisational expectations and approach to the practice of research.� Research Integrity Management is applicable throughout the full research process, including the planning and conduct of research, the recording and reporting of results, and the dissemination, application, and exploitation of research findings.">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Plan - Improve"/>
+  <properties
+      key="Capability Code"
+      value="BC212"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Parent Capability"
+      value="BC093 Research Support"/>
+</archimate:Capability>

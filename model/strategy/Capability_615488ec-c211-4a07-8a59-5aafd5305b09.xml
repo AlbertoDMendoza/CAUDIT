@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Management"
+    id="615488ec-c211-4a07-8a59-5aafd5305b09"
+    documentation="Data Management develops, manages and executes policies, processes, standards and frameworks that collect, protect, deliver, and enhance the value of data and information assets to meet the data availability, quality and security needs of the University.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC143"/>
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ethics Management"
+    id="4d96b9f7-4426-49af-8dba-824e60e90326"
+    documentation="Ethics Management approves or declines research-project proposals, typically those involving human subjects, animal subjects, or genetic-modification techniques.� Additionally, the ethical posture of active research projects is monitored by and reported upon by Ethics Management.">
+  <properties
+      key="Value Chain Segment"
+      value="Plan - Improve"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Capability Code"
+      value="BC094"/>
+  <properties
+      key="Parent Capability"
+      value="BC093 Research Support"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>
