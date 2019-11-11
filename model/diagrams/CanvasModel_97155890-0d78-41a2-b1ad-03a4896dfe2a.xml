@@ -1,0 +1,17 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Data Reference Model"
+    id="97155890-0d78-41a2-b1ad-03a4896dfe2a">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="4639c82f-f99f-4ad3-9226-d916b3da5811"
+      borderColor="#000000"
+      imagePath="images/_IVkF8AGnEeqF2skoSV93oA.png">
+    <bounds
+        x="12"
+        y="12"
+        width="9934"
+        height="7040"/>
+  </children>
+</canvas:CanvasModel>
