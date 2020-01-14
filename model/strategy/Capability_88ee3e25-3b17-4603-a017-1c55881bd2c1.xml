@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Performance Management"
+    id="88ee3e25-3b17-4603-a017-1c55881bd2c1"
+    documentation="Workforce Performance Management assesses, manages, rewards, and recognises the performance of staff and other members of the workforce.�">
+  <properties
+      key="Parent Capability"
+      value="BC171 Human Resource Management"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC181"/>
+  <properties/>
+</archimate:Capability>

@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketing Management"
+    id="4d372557-4001-4086-ac36-b77a6258f07e"
+    documentation="Marketing Management enables the understanding of�customer's and stakeholder's requirements to position products and services to meet customer requirements, and to develop and maintain brand equity and consistency.">
+  <properties
+      key="Capability Code"
+      value="BC107"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

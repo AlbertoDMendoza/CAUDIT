@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Other Tertiary Institution Relationship Management"
+    id="88b403ba-ebce-4a33-9a3f-8e027d9e538a"
+    documentation="Other Tertiary Institution Relationship Management�identifies key peer tertiary institutions, and manages and maintains these relationships">
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC100 Organisations &amp; Communities Relationship Management"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC105"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Security Management"
+    id="87803001-d4c8-4a50-8620-fce018f2d6d5"
+    documentation="Information Security Management protects information and information infrastructure assets against the risks of loss, misuse, disclosure, or damage.">
+  <properties/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+  <properties
+      key="Capability Code"
+      value="BC138"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

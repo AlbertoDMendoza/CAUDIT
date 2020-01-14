@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Curriculum Performance Management"
+    id="68883300-1937-439f-881d-8950c819c2d9"
+    documentation="Curriculum Performance Management monitors performance against the quality management requirements to improve the curriculum components and ensure the learning outcomes are still relevant.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Parent Capability"
+      value="BC038 Curriculum Improvement"/>
+  <properties
+      key="Capability Code"
+      value="BC040"/>
+  <properties
+      key="Value Chain Segment"
+      value="Improve"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

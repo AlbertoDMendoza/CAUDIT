@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campus Transportation Management"
+    id="15702766-5f93-4127-b1e5-16674c4140ef"
+    documentation="Campus Transportation Management determines the range and nature of transportation modes and services availability for people to travel to, within, and between an institution's campuses. This capability may incorporate traditional car-parking schemes, interactions and agreement with public-transport providers, arrangements for bicycle users, and the adoption and promotion of mobility-as-service transport options such as pay-per-use e-scooters.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC125 Facilities &amp; Property Management"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC128"/>
+  <properties/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract Management"
+    id="eab460bd-1fec-4c3e-948d-e0b1a953285b"
+    documentation="Contract Management manages the development, negotiation, execution, and review of institution contracts.">
+  <properties
+      key="Parent Capability"
+      value="BC155 Legal Services"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC156"/>
+</archimate:Capability>

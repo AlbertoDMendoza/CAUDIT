@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health, Safety, &amp; Wellbeing Management"
+    id="a742d858-6ba5-416c-a649-65635ad7ba48"
+    documentation="Health, Safety, and Wellbeing Management provides services that manage, investigate and monitor risks to the health, safety and environment of students and staff in the institution. These services contribute to improving the staff and students health, safety and environments through; training, wellness activities, sustainability initiatives, and risk management.">
+  <properties
+      key="Parent Capability"
+      value="BC171 Human Resource Management"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC180"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning Assessment"
+    id="72b5c316-5ea3-491a-92b4-7e4d29e1634c"
+    documentation="Learning Assessment assesses the student's knowledge of learning outcomes across all delivery modes including blended learning and work-based/work-integrated learning.">
+  <properties
+      key="Parent Capability"
+      value="BC028 Student Assessment"/>
+  <properties
+      key="Value Chain Segment"
+      value="Assess"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC029"/>
+</archimate:Capability>

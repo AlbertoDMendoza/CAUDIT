@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Food &amp; Retail Outlet Management"
+    id="0225dd97-136c-413c-aae3-76ec7a9a4f1a"
+    documentation="Food &amp; Retail Outlet Management manages food and retail stores and outlets.">
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC114 Supporting Services"/>
+  <properties
+      key="Capability Code"
+      value="BC123"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

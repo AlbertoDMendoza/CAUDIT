@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Performance Analysis"
+    id="30bcae07-1910-4f12-ba05-5a1500ac67c0"
+    documentation="Performance Analysis captures and stores data required to report organisational performance.">
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC150 Organisation Performance"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC153"/>
+</archimate:Capability>

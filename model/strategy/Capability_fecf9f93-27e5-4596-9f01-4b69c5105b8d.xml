@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advertising Management"
+    id="fecf9f93-27e5-4596-9f01-4b69c5105b8d"
+    documentation="Advertising Management develops and manages advertising, including setting objectives, messages, audience, and engaging advertising/media providers.">
+  <properties
+      key="Parent Capability"
+      value="BC107 Marketing Management"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC108"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Study Abroad &amp; Exchange Program Administration"
+    id="5ba37f00-d34f-4036-96de-86a517027c9e"
+    documentation="Capability necessary for implementing and governing study abroad and exchange programs for students.">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Parent Capability"
+      value="BC044 Student Administration"/>
+  <properties
+      key="Capability Code"
+      value="BC225"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+</archimate:Capability>

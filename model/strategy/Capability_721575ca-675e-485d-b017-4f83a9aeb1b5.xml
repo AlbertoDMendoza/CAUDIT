@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Engagement"
+    id="721575ca-675e-485d-b017-4f83a9aeb1b5"
+    documentation="Student Engagement engages students of the university and is typically used to encourage persistence towards successful completion and to also maximise their learning outcomes through academic endeavour and extracurricular activities.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC057"/>
+  <properties
+      key="Parent Capability"
+      value="BC052 Student Support Services"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

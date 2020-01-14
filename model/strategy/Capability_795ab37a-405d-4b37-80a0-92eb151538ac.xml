@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alumni Relationship Management"
+    id="795ab37a-405d-4b37-80a0-92eb151538ac"
+    documentation="Alumni Relationship Management maintains and enhances a mutually beneficial relationship with former students,and helps connect them with each other.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC037"/>
+  <properties
+      key="Parent Capability"
+      value="BC232 Advancement Management"/>
+  <properties/>
+  <properties/>
+</archimate:Capability>

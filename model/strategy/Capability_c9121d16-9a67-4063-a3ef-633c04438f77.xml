@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accounts Payable"
+    id="c9121d16-9a67-4063-a3ef-633c04438f77"
+    documentation="Accounts Receivable manages the receipt of payments to the institution.">
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC187"/>
+</archimate:Capability>

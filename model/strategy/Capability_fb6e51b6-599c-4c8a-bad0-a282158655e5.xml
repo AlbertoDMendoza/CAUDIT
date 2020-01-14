@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communications Management"
+    id="fb6e51b6-599c-4c8a-bad0-a282158655e5"
+    documentation="Capability necessary to manage and deliver communications to internal and external parties.� This includes publishing items for external and internal consumption.">
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC220"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC107 Marketing Management"/>
+</archimate:Capability>

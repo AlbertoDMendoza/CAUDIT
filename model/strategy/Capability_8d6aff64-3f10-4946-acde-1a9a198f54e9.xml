@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Continuity Management"
+    id="8d6aff64-3f10-4946-acde-1a9a198f54e9"
+    documentation="Business Continuity Management develops, tests, and maintains the institution's business continuity plans.">
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC161"/>
+  <properties
+      key="Parent Capability"
+      value="BC160 Governance, Risk, &amp; Compliance"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

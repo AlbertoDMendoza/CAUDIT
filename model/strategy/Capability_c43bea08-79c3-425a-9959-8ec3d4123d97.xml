@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity &amp; Access Management"
+    id="c43bea08-79c3-425a-9959-8ec3d4123d97"
+    documentation="Identity &amp; Access Management manages data on IT systems and applications about users. Managed data includes user objects, identity attributes, security entitlements and authentication factors.">
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC139"/>
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+</archimate:Capability>

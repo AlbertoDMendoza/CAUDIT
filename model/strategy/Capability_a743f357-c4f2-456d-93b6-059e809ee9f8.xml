@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Advice"
+    id="a743f357-c4f2-456d-93b6-059e809ee9f8"
+    documentation="Financial Advice provides students with advice and support of a financial nature, typically including budget advice, obtaining information on housing and transport, and advocating for students applying for emergency funding.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Parent Capability"
+      value="BC052 Student Support Services"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC056"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+</archimate:Capability>

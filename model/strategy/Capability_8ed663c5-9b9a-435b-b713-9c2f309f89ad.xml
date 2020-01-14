@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Experience Management"
+    id="8ed663c5-9b9a-435b-b713-9c2f309f89ad"
+    documentation="Customer Experience Management is the practice of designing, tracking, and reacting to interactions between customers and the organisation to meet or exceed customer satisfaction and customer expectations throughout the customer lifecycle.">
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC206 Business Capability Management"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC217"/>
+</archimate:Capability>

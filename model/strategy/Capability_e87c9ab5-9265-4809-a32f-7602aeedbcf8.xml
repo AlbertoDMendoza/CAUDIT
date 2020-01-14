@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="International &amp; Exchange Studies"
+    id="e87c9ab5-9265-4809-a32f-7602aeedbcf8"
+    documentation="International &amp; Exchange Studies manages programs for international and exchange studies, both outbound and inbound">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC060"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Parent Capability"
+      value="BC052 Student Support Services"/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketing Event Management"
+    id="27c7722c-7a41-4e53-8362-5834c7aadcfd"
+    documentation="Marketing Event Management develops and runs online or in-person promotional and engagement activities.">
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC110"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC107 Marketing Management"/>
+</archimate:Capability>

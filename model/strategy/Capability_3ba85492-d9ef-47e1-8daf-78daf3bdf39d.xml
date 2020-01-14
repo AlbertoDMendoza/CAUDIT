@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Impact Assessment"
+    id="3ba85492-d9ef-47e1-8daf-78daf3bdf39d"
+    documentation="Capability necessary to assess the impact of research on the broader community across cultural, economic, environmental, social, legal, political, and technological dimensions.�">
+  <properties
+      key="Value Chain Segment"
+      value="Impact"/>
+  <properties
+      key="Capability Code"
+      value="BC228"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Parent Capability"
+      value="BC086 Research Impact"/>
+</archimate:Capability>

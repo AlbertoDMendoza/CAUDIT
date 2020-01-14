@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Building &amp; Facilities Management"
+    id="143f42d4-cd1c-457b-bb61-ccf6118c2117"
+    documentation="Building &amp; Facilities Management manages and maintains institution buildings and facilities.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC125 Facilities &amp; Property Management"/>
+  <properties
+      key="Capability Code"
+      value="BC126"/>
+</archimate:Capability>

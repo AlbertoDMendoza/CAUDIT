@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Support Services"
+    id="a84c3fb9-e248-4cf4-8771-f8a81efe80e9"
+    documentation="Student Support Services provides broad academic and personal support to students during their studies">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC052"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+</archimate:Capability>

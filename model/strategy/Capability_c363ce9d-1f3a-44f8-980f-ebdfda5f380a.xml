@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal &amp; Legislative Compliance"
+    id="c363ce9d-1f3a-44f8-980f-ebdfda5f380a"
+    documentation="Legal &amp; Legislative Compliance provides advice on legal compliance.">
+  <properties
+      key="Parent Capability"
+      value="BC155 Legal Services"/>
+  <properties
+      key="Capability Code"
+      value="BC158"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+</archimate:Capability>

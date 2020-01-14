@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Build, Acquisition, &amp; Implementation"
+    id="22667e0c-d703-492a-834c-8db6169fdc6b"
+    documentation="Build, Acquisition, and Implementation provides the basis for introducing and integrating�new or changed technology solutions and services.">
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC201 Information &amp; Communication Technology Management"/>
+  <properties
+      key="Capability Code"
+      value="BC203"/>
+</archimate:Capability>

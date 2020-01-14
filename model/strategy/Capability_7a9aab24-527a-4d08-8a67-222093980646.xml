@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Donor, Sponsor, &amp; Philanthropist Relationship Management"
+    id="7a9aab24-527a-4d08-8a67-222093980646"
+    documentation="Capability necessary to identify donors, sponsors, and philanthropists and manage and maintain these relationships.">
+  <properties
+      key="Capability Code"
+      value="BC233"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC232 Advancement Management"/>
+</archimate:Capability>

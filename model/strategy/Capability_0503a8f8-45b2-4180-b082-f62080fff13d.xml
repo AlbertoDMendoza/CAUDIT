@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prospective Student Engagement"
+    id="0503a8f8-45b2-4180-b082-f62080fff13d"
+    documentation="Prospective Student Engagement promotes the institution to prospective students and assists with their education planning and decisions.">
+  <properties
+      key="Value Chain Segment"
+      value="Recruit"/>
+  <properties
+      key="Parent Capability"
+      value="BC008 Student Recruitment"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC011"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+</archimate:Capability>

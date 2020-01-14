@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Application Processing"
+    id="5231d884-e2b6-4236-9dc2-8defb1af6390"
+    documentation="Student Application Processing prepares student applications for evaluation">
+  <properties
+      key="Parent Capability"
+      value="BC014 Student Admission"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC015"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

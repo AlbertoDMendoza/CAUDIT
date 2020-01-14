@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Management"
+    id="fcf9d0ce-7e8f-4a9d-80e8-03a08624d3b0"
+    documentation="Policy management governs the development, establishment, amendment, and review of policies to ensure relevance, authority, and consistency with internal and external legislation; and defining the roles, responsibilities, and authorities in relation to the development, establishment, amendment, and review of policies.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC164"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC160 Governance, Risk, &amp; Compliance"/>
+</archimate:Capability>

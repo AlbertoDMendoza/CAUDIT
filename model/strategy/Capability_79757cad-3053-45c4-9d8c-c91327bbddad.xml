@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Program Disestablishment"
+    id="79757cad-3053-45c4-9d8c-c91327bbddad"
+    documentation="Program Disestablishment removes programs and/or specialisations from the curriculum offering.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Improve"/>
+  <properties
+      key="Parent Capability"
+      value="BC041 Curriculum Disestablishment"/>
+  <properties
+      key="Capability Code"
+      value="BC042"/>
+</archimate:Capability>

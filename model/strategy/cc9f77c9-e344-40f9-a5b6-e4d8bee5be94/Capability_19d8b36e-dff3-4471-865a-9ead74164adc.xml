@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategy Management"
+    id="19d8b36e-dff3-4471-865a-9ead74164adc"
+    documentation="Strategy Management defines the direction of the University, which includes its goals and objectives.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC147"/>
+</archimate:Capability>

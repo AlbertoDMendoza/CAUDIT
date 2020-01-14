@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Relationship Management"
+    id="ab07c3af-cf17-4bc0-8576-856a3992cf3c"
+    documentation="Workforce Relationship Management manages all interactions with employees. This may include training University managers and decision-makers on how to establish and nurture relationships with employees and in measuring and monitoring those relationships to determine whether objectives are being met.">
+  <properties
+      key="Capability Code"
+      value="BC173"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC171 Human Resource Management"/>
+</archimate:Capability>

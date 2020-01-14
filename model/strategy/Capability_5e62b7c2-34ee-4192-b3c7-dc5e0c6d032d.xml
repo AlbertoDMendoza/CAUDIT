@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Quality Management"
+    id="5e62b7c2-34ee-4192-b3c7-dc5e0c6d032d"
+    documentation="Research Quality Management assesses research program quality and undertake quality improvement activities.">
+  <properties
+      key="Parent Capability"
+      value="BC089 Research Improvement"/>
+  <properties
+      key="Capability Code"
+      value="BC091"/>
+  <properties
+      key="Value Chain Segment"
+      value="Improve"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+</archimate:Capability>

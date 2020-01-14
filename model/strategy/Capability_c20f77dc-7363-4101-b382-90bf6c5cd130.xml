@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Academic Progress Management"
+    id="c20f77dc-7363-4101-b382-90bf6c5cd130"
+    documentation="Student academic progress advances a student through to completion of their award.">
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC046"/>
+  <properties
+      key="Parent Capability"
+      value="BC044 Student Administration"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+</archimate:Capability>

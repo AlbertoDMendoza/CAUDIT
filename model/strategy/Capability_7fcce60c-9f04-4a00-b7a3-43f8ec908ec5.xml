@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Compliance Support"
+    id="7fcce60c-9f04-4a00-b7a3-43f8ec908ec5"
+    documentation="Research Compliance Support provides compliance support to research initiatives.">
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Capability Code"
+      value="BC095"/>
+  <properties
+      key="Parent Capability"
+      value="BC093 Research Support"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Plan - Improve"/>
+</archimate:Capability>

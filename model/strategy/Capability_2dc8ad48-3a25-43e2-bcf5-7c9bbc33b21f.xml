@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ceremony Management"
+    id="2dc8ad48-3a25-43e2-bcf5-7c9bbc33b21f"
+    documentation="Ceremony Management organises and conducts graduation ceremonies">
+  <properties
+      key="Parent Capability"
+      value="BC032 Student Graduation"/>
+  <properties
+      key="Value Chain Segment"
+      value="Graduate"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC033"/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Management"
+    id="1e8eb883-9a33-4a18-a7f6-bbb55c9fcb9b"
+    documentation="Campaign Management prepares, launches, monitors, and reviews targeted promotional activities.">
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC107 Marketing Management"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC109"/>
+  <properties/>
+</archimate:Capability>

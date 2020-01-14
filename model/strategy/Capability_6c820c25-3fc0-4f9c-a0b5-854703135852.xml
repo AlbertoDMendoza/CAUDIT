@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Copyright Management"
+    id="6c820c25-3fc0-4f9c-a0b5-854703135852"
+    documentation="Copyright Management manages copyrighting of institution intellectual property, and to ensure copyright requirements for copyrighted material are observed by the institution.">
+  <properties
+      key="Capability Code"
+      value="BC141"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+  <properties/>
+</archimate:Capability>

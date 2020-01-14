@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mail Management"
+    id="e188046f-95e4-4ff1-80fb-c0e357c0a485"
+    documentation="Mail Management provides postal mail services for the organisation.">
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC119"/>
+  <properties
+      key="Parent Capability"
+      value="BC114 Supporting Services"/>
+</archimate:Capability>

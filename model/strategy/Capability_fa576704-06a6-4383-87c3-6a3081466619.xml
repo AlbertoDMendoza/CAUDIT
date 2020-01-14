@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gallery &amp; Museum Management"
+    id="fa576704-06a6-4383-87c3-6a3081466619"
+    documentation="Gallery and Museum Management designs, operates, and curates exhibitions drawn from the institution's own and external or travelling special collections of artefacts, objects, and digital objects such as artworks, ephemera, scientific, cultural, heritage and other natures, typically in dedicated gallery and museum facilities, and also in temporary, pop-up, and cabinet displays.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC116"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC114 Supporting Services"/>
+</archimate:Capability>

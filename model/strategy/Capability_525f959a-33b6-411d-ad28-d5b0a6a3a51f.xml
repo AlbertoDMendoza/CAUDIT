@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Management"
+    id="525f959a-33b6-411d-ad28-d5b0a6a3a51f"
+    documentation="Service Management is a business capability that designs all aspects of services and service and support models to ensure they are fit for purpose and fit for use.� This includes defining service catalogues, service agreements, service availability, service capacity, and service continuity plans and designs.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC218"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC206 Business Capability Management"/>
+</archimate:Capability>

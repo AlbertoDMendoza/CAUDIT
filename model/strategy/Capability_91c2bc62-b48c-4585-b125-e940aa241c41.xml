@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vision &amp; Strategy Development"
+    id="91c2bc62-b48c-4585-b125-e940aa241c41"
+    documentation="Vision and Strategy Development defines where the University is going (vision and goals) and how it is going to get there (objectives and measures).">
+  <properties
+      key="Capability Code"
+      value="BC148"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC147 Strategy Management"/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="General Ledger"
+    id="2b95fa45-b906-44c8-bcb3-d8c221fc0fbb"
+    documentation="General Ledger manages the institution's general ledger.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC186"/>
+</archimate:Capability>

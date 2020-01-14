@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Planning"
+    id="21ab40b3-e6bc-46bc-8c7e-68cf93f11457"
+    documentation="Capability necessary to create business plans aligned to strategic plans.">
+  <properties
+      key="Parent Capability"
+      value="BC206 Business Capability Management"/>
+  <properties
+      key="Capability Code"
+      value="BC230"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+</archimate:Capability>

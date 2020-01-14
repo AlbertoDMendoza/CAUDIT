@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Curriculum Delivery"
+    id="4af60fce-a0d9-4190-a639-bf6d6f072673"
+    documentation="Curriculum Delivery administers and operates the organisation's curricula.">
+  <properties
+      key="Capability Code"
+      value="BC023"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Value Chain Segment"
+      value="Deliver"/>
+</archimate:Capability>

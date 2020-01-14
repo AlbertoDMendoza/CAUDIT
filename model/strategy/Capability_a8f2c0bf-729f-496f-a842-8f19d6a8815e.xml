@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Candidature Management"
+    id="a8f2c0bf-729f-496f-a842-8f19d6a8815e"
+    documentation="Candidature Management confirms, supports and supervises the graduate researcher.">
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Capability Code"
+      value="BC047"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Parent Capability"
+      value="BC044 Student Administration"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

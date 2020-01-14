@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Curriculum Design"
+    id="44864acf-b358-4e1f-88d5-29c78c95e320"
+    documentation="Curriculum Design produces complete specifications of structured learning activities such as courses, subjects, and units.">
+  <properties
+      key="Parent Capability"
+      value="BC001 Curriculum Creation"/>
+  <properties
+      key="Value Chain Segment"
+      value="Design"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC003"/>
+</archimate:Capability>

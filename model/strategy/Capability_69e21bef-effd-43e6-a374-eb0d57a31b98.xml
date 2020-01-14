@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Travel Management"
+    id="69e21bef-effd-43e6-a374-eb0d57a31b98"
+    documentation="Travel Management manages the strategic approach to travel, travel vendor relationships, the corporate travel program, traveller safety and security, and travel and expenses data management.�">
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC114 Supporting Services"/>
+  <properties
+      key="Capability Code"
+      value="BC195"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Production"
+    id="59f309fa-4e2a-4168-8cc4-db69bb241cfc"
+    documentation="Research Production performs research tasks related to the delivery of research. This may include conducting experiments, observations and simulations; processing outputs; analysing information; and recording findings.�">
+  <properties
+      key="Capability Code"
+      value="BC075"/>
+  <properties
+      key="Value Chain Segment"
+      value="Conduct"/>
+  <properties
+      key="Parent Capability"
+      value="BC074 Research Delivery"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Grievance Management"
+    id="26543b2a-cf0c-4390-aac4-ad90abfb85b5"
+    documentation="Capability necessary to manage student grievances.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Parent Capability"
+      value="BC052 Student Support Services"/>
+  <properties
+      key="Capability Code"
+      value="BC226"/>
+</archimate:Capability>

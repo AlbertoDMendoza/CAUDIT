@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Curriculum Creation"
+    id="1573027a-24c3-4a56-b38f-68419ad5524f"
+    documentation="Curriculum Creation produces structured learning activities such as courses, subjects and units, and ensures the organisation is able to deliver them.">
+  <properties
+      key="Capability Code"
+      value="BC001"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Design"/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bank Management"
+    id="140fd493-854e-4314-ad58-010e0d62b788"
+    documentation="Bank Management oversees and manages banking transactions of the institution.">
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC192"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+</archimate:Capability>

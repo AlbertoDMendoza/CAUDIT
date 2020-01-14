@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information &amp; Communication Technology Management "
+    id="58beaebc-d8a4-426f-9a0f-2c09e6893f70"
+    documentation="Information &amp; Communication Technology Management�plans, builds, and runs the institution's technology services and solutions.�">
+  <properties
+      key="Capability Code"
+      value="BC201"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

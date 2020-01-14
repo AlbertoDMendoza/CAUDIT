@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning &amp; Teaching Delivery"
+    id="fa60366c-814a-4f27-bf0d-daee4eb70d15"
+    documentation="Learning &amp; Teaching Delivery conducts the learning and teaching activities specified in the institution's curricula.">
+  <properties
+      key="Capability Code"
+      value="BC026"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Deliver"/>
+  <properties
+      key="Parent Capability"
+      value="BC023 Curriculum Delivery"/>
+</archimate:Capability>

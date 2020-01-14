@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event &amp; Venue Management"
+    id="11619bf7-a977-4db7-ab38-fdd103691127"
+    documentation="Event &amp; Venue Management provides venue-management services.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC114 Supporting Services"/>
+  <properties
+      key="Capability Code"
+      value="BC122"/>
+  <properties/>
+  <properties/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investment Management"
+    id="68973c5e-9e13-47a0-a1e3-a8010e8f4e48"
+    documentation="Investment Management manages the institution's portfolio of securities including bonds, shares, and real-estate investments.">
+  <properties
+      key="Capability Code"
+      value="BC199"/>
+  <properties
+      key="Parent Capability"
+      value="BC184 Financial Management"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+</archimate:Capability>

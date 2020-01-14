@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Higher Degree Student Assessment"
+    id="89a2d821-c6cf-4439-a107-f91d712f7c3e"
+    documentation="Higher Degree Research Student Assessment assesses the work of students undertaking a higher degree by research.">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Parent Capability"
+      value="BC028 Student Assessment"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Value Chain Segment"
+      value="Assess"/>
+  <properties
+      key="Capability Code"
+      value="BC031"/>
+</archimate:Capability>

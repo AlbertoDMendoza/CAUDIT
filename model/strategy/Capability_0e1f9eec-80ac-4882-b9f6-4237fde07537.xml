@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Commercial Relationship Management"
+    id="0e1f9eec-80ac-4882-b9f6-4237fde07537"
+    documentation="Commercial Relationship Management engages and promotes the institution's research with commercial organisations">
+  <properties
+      key="Capability Code"
+      value="BC087"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Impact"/>
+  <properties
+      key="Parent Capability"
+      value="BC086 Research Impact"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+</archimate:Capability>

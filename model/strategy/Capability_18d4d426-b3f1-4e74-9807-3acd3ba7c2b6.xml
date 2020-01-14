@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complaint &amp; Compliment Management"
+    id="18d4d426-b3f1-4e74-9807-3acd3ba7c2b6"
+    documentation="Complaint &amp; Compliment Management recognises and responds to the community's feedback.">
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC166"/>
+  <properties
+      key="Parent Capability"
+      value="BC160 Governance, Risk, &amp; Compliance"/>
+</archimate:Capability>

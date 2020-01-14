@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning &amp; Teaching Content Administration"
+    id="f5f42517-6061-4743-ac72-9904ee035865"
+    documentation="Learning &amp; Teaching Content Administration administers curriculum resources in learning systems and platforms, including configuration of courses and scheduling lecture capture">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC025"/>
+  <properties
+      key="Parent Capability"
+      value="BC023 Curriculum Delivery"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Deliver"/>
+</archimate:Capability>

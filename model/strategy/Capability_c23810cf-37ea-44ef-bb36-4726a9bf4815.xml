@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Industry Relationship Management"
+    id="c23810cf-37ea-44ef-bb36-4726a9bf4815"
+    documentation="Industry Relationship Management identifies�key industry stakeholders and partners, and manages and maintains these relationships">
+  <properties
+      key="Parent Capability"
+      value="BC100 Organisations &amp; Communities Relationship Management"/>
+  <properties
+      key="Capability Code"
+      value="BC102"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+</archimate:Capability>

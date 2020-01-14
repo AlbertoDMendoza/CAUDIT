@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Benefits Management"
+    id="7224f61b-cf94-48f6-9a44-5595ef1982ac"
+    documentation="Benefits Management identifies, measures, and evaluates the anticipated benefits associated with a given change initiative.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC206 Business Capability Management"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC208"/>
+  <properties/>
+</archimate:Capability>

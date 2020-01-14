@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="International Student Recruitment"
+    id="95e7a038-5983-433b-a9d9-9e17608d9e87"
+    documentation="International Student Recruitment targets promotion of the institution to generate applications specifically from international students">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC013"/>
+  <properties
+      key="Parent Capability"
+      value="BC008 Student Recruitment"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit"/>
+</archimate:Capability>

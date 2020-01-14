@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campus Security"
+    id="5e18ad88-f4f0-42d2-a380-0399e7347416"
+    documentation="Campus Security provides and manages institution security services for safety and protection of people and assets. This may include�physical security presence and monitoring, building access management, and incident and emergency response management.">
+  <properties
+      key="Parent Capability"
+      value="BC125 Facilities &amp; Property Management"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC129"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

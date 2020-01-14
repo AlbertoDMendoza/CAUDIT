@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Planning"
+    id="bb4ed33a-72a7-48d3-a315-2257c263375f"
+    documentation="Workforce Planning attempts to ensure the organisation can access the right people, with the right skills, at the right time.� Workforce planning forecasts anticipated workforce requirements, reports workforce performance, and recommends workforce structuring and recruitment strategies.">
+  <properties
+      key="Capability Code"
+      value="BC174"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC171 Human Resource Management"/>
+</archimate:Capability>

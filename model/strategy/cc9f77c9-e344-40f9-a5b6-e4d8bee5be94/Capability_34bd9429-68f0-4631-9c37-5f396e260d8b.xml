@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advancement Management"
+    id="34bd9429-68f0-4631-9c37-5f396e260d8b"
+    documentation="Advancement Management builds understanding and support for the university's vision and mission, long-term investment, engagement, participation and philanthropic support.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC232"/>
+</archimate:Capability>

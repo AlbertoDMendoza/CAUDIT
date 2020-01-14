@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Recruitment"
+    id="0b6b685b-6ec1-4dce-b5f1-433613f876f1"
+    documentation="Workforce Recruitment recruits, acquires, and onboards professional, academic, sessional, and contract staff.�">
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC171 Human Resource Management"/>
+  <properties
+      key="Capability Code"
+      value="BC175"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Allocation &amp; Placement"
+    id="b2bc771e-7550-4ca7-965a-99cde04c613b"
+    documentation="Allocation and Placement provides students with work-based learning experiences in external organisations, meeting the learning-outcome and any compliance-related goals determined by the design of the curriculum.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Parent Capability"
+      value="BC019 Student Enrolment"/>
+  <properties
+      key="Value Chain Segment"
+      value="Enrol"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC022"/>
+</archimate:Capability>

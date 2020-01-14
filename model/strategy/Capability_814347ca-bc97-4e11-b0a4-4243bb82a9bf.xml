@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grounds Maintenance"
+    id="814347ca-bc97-4e11-b0a4-4243bb82a9bf"
+    documentation="Grounds Maintenance manages and maintains the institution's grounds.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC132"/>
+  <properties
+      key="Parent Capability"
+      value="BC125 Facilities &amp; Property Management"/>
+  <properties/>
+</archimate:Capability>

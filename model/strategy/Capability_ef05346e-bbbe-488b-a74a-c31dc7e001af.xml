@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Governance"
+    id="ef05346e-bbbe-488b-a74a-c31dc7e001af"
+    documentation="Information Governance catalogues the information an organisation uses, establishes the norms for its use, monitors that use, and provides controls to keep the use of information consistent with those norms.">
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC136"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

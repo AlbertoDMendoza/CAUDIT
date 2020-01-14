@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Merchandising"
+    id="b0499bfb-3bf4-4377-b4cb-bc58b06c0767"
+    documentation="Merchandising develops, manages, and sells institution merchandise.">
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC107 Marketing Management"/>
+  <properties
+      key="Capability Code"
+      value="BC113"/>
+</archimate:Capability>

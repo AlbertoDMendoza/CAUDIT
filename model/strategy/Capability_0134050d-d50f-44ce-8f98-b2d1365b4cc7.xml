@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Program Performance Management "
+    id="0134050d-d50f-44ce-8f98-b2d1365b4cc7"
+    documentation="Research Program Performance Management assesses research program performance and undertake performance improvement activities.">
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Capability Code"
+      value="BC090"/>
+  <properties
+      key="Value Chain Segment"
+      value="Improve"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Parent Capability"
+      value="BC089 Research Improvement"/>
+</archimate:Capability>

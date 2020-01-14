@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisations &amp; Communities Relationship Management"
+    id="99795a49-cd68-47fb-bc91-885a19e72dab"
+    documentation="This capability develops�and maintains relationships with key external organisations and community stakeholder groups and keeps engages them regarding the University's plans and activities.�">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC100"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unit Disestablishment"
+    id="88a6dbac-651c-489e-a63a-c2156fdfd914"
+    documentation="Unit Disestablishment removes courses from the curriculum offering.">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Improve"/>
+  <properties
+      key="Capability Code"
+      value="BC043"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Parent Capability"
+      value="BC041 Curriculum Disestablishment"/>
+</archimate:Capability>

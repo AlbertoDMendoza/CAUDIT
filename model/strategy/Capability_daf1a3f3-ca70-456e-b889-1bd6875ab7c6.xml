@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Design"
+    id="daf1a3f3-ca70-456e-b889-1bd6875ab7c6"
+    documentation="Organisational Design is the capability that designs the structure of the University, considering many factors such as organisation-level change, structure, technology, culture, power, and the University's external environment.">
+  <properties
+      key="Capability Code"
+      value="BC172"/>
+  <properties
+      key="Parent Capability"
+      value="BC171 Human Resource Management"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties/>
+</archimate:Capability>

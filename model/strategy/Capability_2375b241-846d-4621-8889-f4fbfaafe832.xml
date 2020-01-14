@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domestic Student Recruitment"
+    id="2375b241-846d-4621-8889-f4fbfaafe832"
+    documentation="Domestic Student Recruitment targets promotion of the institution to generate applications specifically from domestic students">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit"/>
+  <properties
+      key="Capability Code"
+      value="BC012"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Parent Capability"
+      value="BC008 Student Recruitment"/>
+</archimate:Capability>

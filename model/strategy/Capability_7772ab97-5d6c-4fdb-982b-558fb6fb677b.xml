@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Relationship Management"
+    id="7772ab97-5d6c-4fdb-982b-558fb6fb677b"
+    documentation="Student Relationship Management develops, maintains, and enhances the relationship with current students.">
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Parent Capability"
+      value="BC044 Student Administration"/>
+  <properties
+      key="Capability Code"
+      value="BC045"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+</archimate:Capability>

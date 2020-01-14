@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Industry Placement Management"
+    id="6f97ab2e-779c-42c4-a864-9189ccbee6b1"
+    documentation="Capability that manages the administration of student placements and partnerships with industry in these placements (e.g. Work Integrated Learning, Industry Affiliate Programmes)">
+  <properties
+      key="Parent Capability"
+      value="BC044 Student Administration"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC030"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+</archimate:Capability>

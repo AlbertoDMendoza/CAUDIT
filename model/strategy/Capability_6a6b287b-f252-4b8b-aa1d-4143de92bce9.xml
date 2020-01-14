@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accreditation"
+    id="6a6b287b-f252-4b8b-aa1d-4143de92bce9"
+    documentation="Accreditation is the assessment of the institution's curricula against the standards set by an accrediting authority">
+  <properties
+      key="Value Chain Segment"
+      value="Design"/>
+  <properties
+      key="Parent Capability"
+      value="BC001 Curriculum Creation"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Code"
+      value="BC007"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

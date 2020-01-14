@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Funding"
+    id="05c4eb1f-a8ec-4b91-8783-34e7a261be59"
+    documentation="Research funding acquires financial resources required to support research, training, and service through various agreements.">
+  <properties
+      key="Capability Code"
+      value="BC071"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Fund"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+</archimate:Capability>

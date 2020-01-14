@@ -1,0 +1,18 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Business Reference Model - Poster"
+    id="071575e3-c604-492d-8491-2a54f38d8d13"
+    documentation="The poster summarises the Business Reference Model.  It shows value chains for higher education, and the business capabilities that enable them. V2.0.1">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="6b70e240-1c0e-45d8-9b18-f0eb7e2cfebe"
+      borderColor="#000000"
+      imagePath="images/_QP2b8AGnEeqF2skoSV93oA.png">
+    <bounds
+        x="-4944"
+        y="12"
+        width="9362"
+        height="6622"/>
+  </children>
+</canvas:CanvasModel>

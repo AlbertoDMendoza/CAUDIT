@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Opportunities &amp; Planning"
+    id="2659b247-cbd1-45bc-8f1b-595aee750a27"
+    documentation="Research Opportunities &amp; Planning manages the establishment of the research plan and the resources required to support research.">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Plan"/>
+  <properties
+      key="Capability Code"
+      value="BC065"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+</archimate:Capability>

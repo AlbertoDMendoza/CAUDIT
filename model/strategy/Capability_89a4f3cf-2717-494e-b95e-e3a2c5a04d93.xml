@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Degree Award"
+    id="89a4f3cf-2717-494e-b95e-e3a2c5a04d93"
+    documentation="Degree Award manages the conferral of awards�to students who have met the academic requirements of their study programme.">
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Parent Capability"
+      value="BC032 Student Graduation"/>
+  <properties
+      key="Value Chain Segment"
+      value="Graduate"/>
+  <properties
+      key="Capability Code"
+      value="BC035"/>
+</archimate:Capability>

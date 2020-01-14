@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Library Collection Management"
+    id="d8927999-d1d6-46c9-bd4c-e6efeab3636c"
+    documentation="Capability necessary to manage library collections that include research resources, digitised collections, journals, and past exam papers.">
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC213"/>
+  <properties
+      key="Parent Capability"
+      value="BC133 Library Administration"/>
+</archimate:Capability>

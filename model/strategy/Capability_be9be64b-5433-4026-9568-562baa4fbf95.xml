@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advanced Analytics"
+    id="be9be64b-5433-4026-9568-562baa4fbf95"
+    documentation="Advanced Analytics examines data using tools and techniques (such as data mining, pattern matching, forecasting) to discover deeper insights, make predictions, or generate recommendations beyond traditional business intelligence.">
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+  <properties
+      key="Capability Code"
+      value="BC144"/>
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

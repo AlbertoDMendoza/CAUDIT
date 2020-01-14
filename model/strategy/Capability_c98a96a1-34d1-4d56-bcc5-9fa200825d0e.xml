@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Preservation"
+    id="c98a96a1-34d1-4d56-bcc5-9fa200825d0e"
+    documentation="Digital Preservation is the active and deliberate management and maintenance of digital objects (files that contain information in digital form) so they can be accessed and used by future users.">
+  <properties
+      key="Capability Code"
+      value="BC231"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC135 Information Management"/>
+  <properties/>
+</archimate:Capability>

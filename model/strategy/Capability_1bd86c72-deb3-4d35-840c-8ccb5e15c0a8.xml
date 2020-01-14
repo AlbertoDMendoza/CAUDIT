@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collaborative Opportunity Management"
+    id="1bd86c72-deb3-4d35-840c-8ccb5e15c0a8"
+    documentation="Collaborative Opportunity Management identifies and manages potential alliances and partnerships required or beneficial to support research.">
+  <properties
+      key="Capability Code"
+      value="BC067"/>
+  <properties
+      key="Value Chain Segment"
+      value="Plan"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Research"/>
+  <properties
+      key="Parent Capability"
+      value="BC065 Research Opportunities &amp; Planning"/>
+</archimate:Capability>

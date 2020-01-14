@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Housing &amp; Accommodation Management"
+    id="da33eca1-c7ae-4327-9012-7391071c85fa"
+    documentation="Housing and Accommodation Management provides support to students and staff to find and secure accommodation.">
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC115"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Parent Capability"
+      value="BC114 Supporting Services"/>
+</archimate:Capability>

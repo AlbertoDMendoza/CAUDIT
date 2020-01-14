@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alignment, Planning, &amp; Organisation"
+    id="e4daedfb-924b-4276-bf6c-da223a9cb2f9"
+    documentation="Alignment, Planning, &amp; Organisation manages and maintains alignment between information and technology services, business priorities, and institution goals.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC202 "/>
+  <properties
+      key="Parent Capability"
+      value="BC201 Information &amp; Communication Technology Management"/>
+  <properties/>
+  <properties/>
+</archimate:Capability>

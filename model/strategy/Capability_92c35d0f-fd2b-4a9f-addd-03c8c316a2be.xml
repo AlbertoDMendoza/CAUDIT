@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Access Management"
+    id="92c35d0f-fd2b-4a9f-addd-03c8c316a2be"
+    documentation="Collection Access Management manages library borrowings.">
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC134"/>
+  <properties
+      key="Parent Capability"
+      value="BC133 Library Administration"/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utilities Management"
+    id="223827c2-1584-4daa-a339-a1532e65a6f1"
+    documentation="Capability necessary to manage utilities within University properties. These may include potable water, electricity, chilled water, steam, gases for experimentation etc.">
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC221"/>
+  <properties
+      key="Parent Capability"
+      value="BC125 Facilities &amp; Property Management"/>
+  <properties/>
+  <properties/>
+</archimate:Capability>

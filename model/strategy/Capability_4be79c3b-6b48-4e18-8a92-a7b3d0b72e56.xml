@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Curriculum Production"
+    id="4be79c3b-6b48-4e18-8a92-a7b3d0b72e56"
+    documentation="Curriculum Production develops and provides resources needed to implement curriculum designs as deliverable educational products.">
+  <properties
+      key="Parent Capability"
+      value="BC001 Curriculum Creation"/>
+  <properties
+      key="Value Chain Segment"
+      value="Design"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Capability Code"
+      value="BC004"/>
+</archimate:Capability>

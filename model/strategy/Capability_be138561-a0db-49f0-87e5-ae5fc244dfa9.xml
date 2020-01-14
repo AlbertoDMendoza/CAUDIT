@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Record Maintenance"
+    id="be138561-a0db-49f0-87e5-ae5fc244dfa9"
+    documentation="Student Record Maintenance captures and manages information on each student, including permanent evidence of their attainment and attendance.">
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Parent Capability"
+      value="BC044 Student Administration"/>
+  <properties
+      key="Capability Code"
+      value="BC048"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+</archimate:Capability>

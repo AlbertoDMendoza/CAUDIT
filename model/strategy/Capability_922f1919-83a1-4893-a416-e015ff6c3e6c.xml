@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agent Management"
+    id="922f1919-83a1-4893-a416-e015ff6c3e6c"
+    documentation="Agent Management engages specialised student recruitment agencies to recruit prospective students for selected offering in specific markets.">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Parent Capability"
+      value="BC008 Student Recruitment"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit"/>
+  <properties
+      key="Capability Code"
+      value="BC009"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+</archimate:Capability>

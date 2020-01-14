@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI Management"
+    id="f983d994-d676-4b89-85dc-58426ac8ed99"
+    documentation="KPI Management creates and manages the key performance framework and associated indicators.">
+  <properties/>
+  <properties/>
+  <properties
+      key="Parent Capability"
+      value="BC150 Organisation Performance"/>
+  <properties
+      key="Capability Code"
+      value="BC152"/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+</archimate:Capability>

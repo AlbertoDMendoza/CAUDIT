@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Admission"
+    id="f5321723-22f6-42bb-9428-6027bb973f0a"
+    documentation="Student Admission receives, evaluates and approves student applications under the admissions policies and standards of the organisation.�">
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit"/>
+  <properties
+      key="Capability Code"
+      value="BC014"/>
+</archimate:Capability>

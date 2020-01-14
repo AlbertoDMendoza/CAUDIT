@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Media Relationship Management"
+    id="7c66520a-a25d-4950-b512-a5330faeeb63"
+    documentation="Media Relationship Management�manages media communications, and the media profile of the institution across broadcast, print, and social media.">
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC104"/>
+  <properties
+      key="Parent Capability"
+      value="BC100 Organisations &amp; Communities Relationship Management"/>
+  <properties/>
+</archimate:Capability>

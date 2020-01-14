@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Academic Skills Development"
+    id="491f6828-b6d5-4f17-91d8-9722747e0102"
+    documentation="Academic Skills Development assists students with developing skills such as academic writing, exam preparation, and writing. This�includes HDR student skills development providing appropriate training and education opportunities which develop a HDR student's research skills.">
+  <properties
+      key="Capability Code"
+      value="BC054"/>
+  <properties
+      key="Value Chain Segment"
+      value="Recruit - Graduate"/>
+  <properties
+      key="Parent Capability"
+      value="BC052 Student Support Services"/>
+  <properties
+      key="Capability Type"
+      value="Core"/>
+  <properties
+      key="Value Chain"
+      value="Learning &amp; Teaching"/>
+</archimate:Capability>

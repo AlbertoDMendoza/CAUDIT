@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dispute Resolution &amp; Litigation"
+    id="8b366807-edb4-47f0-9580-37a7c1d72548"
+    documentation="Dispute Resolution &amp; Litigation manages the resolution of disputes (including mediation, arbitration and conciliation) with or by the university, and litigation.">
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties/>
+  <properties
+      key="Capability Code"
+      value="BC157"/>
+  <properties
+      key="Parent Capability"
+      value="BC155 Legal Services"/>
+</archimate:Capability>

@@ -1,0 +1,17 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Membership Management"
+    id="196dd41c-8da3-432e-8a13-12a3ef462040"
+    documentation="Membership Management manages the membership of various university�services.">
+  <properties/>
+  <properties/>
+  <properties
+      key="Capability Type"
+      value="Enabling"/>
+  <properties
+      key="Capability Code"
+      value="BC124"/>
+  <properties
+      key="Parent Capability"
+      value="BC114 Supporting Services"/>
+</archimate:Capability>
